@@ -1,0 +1,1895 @@
+topicTitle,topicId,value,geo,keyword,time,sys_time
+Symptom,/m/01b_06,100,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Cure,/m/0405g08,52,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Tea,/m/07clx,23,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Fever,/m/0cjf0,21,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Metamizole,/m/08j19g,19,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Mosquito,/m/09f96,18,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Yellow fever mosquito,/m/06y6_w,16,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Head,/m/04hgtk,14,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Bleeding,/m/012n6x,14,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Acetaminophen,/m/0lbt3,13,BR-AC,Dengue,2023-12,2025-07-23 15:37
+COVID-19,/g/11j2cc_qll,12,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Itch,/m/04kllm9,10,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Headache,/m/0j5fv,10,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Clove,/g/121hrbw_,9,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Transmission,/m/036991,7,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Diarrhea,/m/0f3kl,6,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Virus,/m/0g9pc,6,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Ibuprofen,/m/014d3g,5,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Platelet,/m/01bw6w,5,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Juice,/m/01z1kdw,5,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Red blotches,/g/11cnnds5rt,4,BR-AC,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Yellow fever mosquito,/m/06y6_w,44,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Mosquito,/m/09f96,42,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Dengue vaccine,/m/0115n7rn,37,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Vaccine,/m/07__7,37,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Bleeding,/m/012n6x,25,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Pain,/m/062t2,25,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Chikungunya virus infection,/m/01__7l,24,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Cure,/m/0405g08,19,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Disease,/m/027x3,18,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Zika fever,/m/02vkznh,18,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Metamizole,/m/08j19g,15,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Fever,/m/0cjf0,12,BR-AL,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Cure,/m/0405g08,24,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Metamizole,/m/08j19g,14,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Fever,/m/0cjf0,11,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Mosquito,/m/09f96,11,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Disease,/m/027x3,11,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Acetaminophen,/m/0lbt3,10,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Yellow fever mosquito,/m/06y6_w,10,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Vaccine,/m/07__7,9,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Virus,/m/0g9pc,7,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Transmission,/m/036991,7,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Bleeding,/m/012n6x,6,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Malaria,/m/0542n,6,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Chikungunya virus infection,/m/01__7l,6,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Allergy,/m/0fd23,5,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Medical sign,/m/02qbqx,5,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Body ache,/g/11k71tc65k,4,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Sistema Único de Saúde,/m/02z3bf6,4,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Dengue vaccine,/m/0115n7rn,4,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Drink,/g/122fpn6r,3,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Aedes,/m/01yz26,3,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Cause,/m/0j276x9,3,BR-AM,Dengue,2023-12,2025-07-23 15:37
+COVID-19,/g/11j2cc_qll,3,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Zika fever,/m/02vkznh,3,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Itch,/m/04kllm9,2,BR-AM,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-AP,Dengue,2023-12,2025-07-23 15:37
+Vaccine,/m/07__7,16,BR-AP,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Vaccine,/m/07__7,47,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Mosquito,/m/09f96,38,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Yellow fever mosquito,/m/06y6_w,36,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Dengue vaccine,/m/0115n7rn,36,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Body,/m/0180q,20,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Zika fever,/m/02vkznh,18,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Bleeding,/m/012n6x,18,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Chikungunya virus infection,/m/01__7l,17,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Zika virus,/m/080m_5j,15,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Vomiting,/m/012qjw,12,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Fever,/m/0cjf0,12,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Sistema Único de Saúde,/m/02z3bf6,12,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Disease,/m/027x3,12,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Virus,/m/0g9pc,11,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Metamizole,/m/08j19g,11,BR-BA,Dengue,2023-12,2025-07-23 15:37
+COVID-19,/g/11j2cc_qll,10,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Itch,/m/04kllm9,8,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Acetaminophen,/m/0lbt3,8,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Luiz Inácio Lula da Silva,/m/0pc9q,8,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Nodule,/m/0905_p,7,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Headache,/m/0j5fv,7,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Sustainability,/m/0hkst,7,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Body ache,/g/11k71tc65k,6,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Larva,/m/0d9_3,5,BR-BA,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Yellow fever mosquito,/m/06y6_w,52,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Vaccine,/m/07__7,52,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Mosquito,/m/09f96,51,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Dengue vaccine,/m/0115n7rn,33,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Disease,/m/027x3,29,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Sistema Único de Saúde,/m/02z3bf6,24,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Bleeding,/m/012n6x,21,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Chikungunya virus infection,/m/01__7l,21,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Health,/m/0kt51,18,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Public Health,/m/02cm61,12,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Metamizole,/m/08j19g,12,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Fever,/m/0cjf0,10,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Virus,/m/0g9pc,10,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Zika fever,/m/02vkznh,10,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Yellow fever,/m/087z2,9,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Leishmaniasis,/m/01c5s1,9,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Malaria,/m/0542n,9,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Influenza,/m/0cycc,8,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Luiz Inácio Lula da Silva,/m/0pc9q,8,BR-CE,Dengue,2023-12,2025-07-23 15:37
+etiological factor,/g/121bdggj,7,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Diarrhea,/m/0f3kl,7,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Research,/m/06cs1,7,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Bacteria,/m/017q2,7,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Zika virus,/m/080m_5j,6,BR-CE,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Vaccine,/m/07__7,37,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Bleeding,/m/012n6x,31,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Dengue vaccine,/m/0115n7rn,29,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Mosquito,/m/09f96,27,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Yellow fever mosquito,/m/06y6_w,24,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Cure,/m/0405g08,23,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Pain,/m/062t2,22,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Fever,/m/0cjf0,16,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Metamizole,/m/08j19g,14,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Platelet,/m/01bw6w,13,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Diarrhea,/m/0f3kl,12,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Itch,/m/04kllm9,9,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Cause,/m/0j276x9,7,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Headache,/m/0j5fv,7,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Acetaminophen,/m/0lbt3,7,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Pharmaceutical drug,/m/018l35,6,BR-DF,Dengue,2023-12,2025-07-23 15:37
+COVID-19,/g/11j2cc_qll,5,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Infection,/m/098s1,5,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Fast,/g/11l869b5t2,5,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Abdominal pain,/m/02tfl8,5,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Patient,/m/028hfb,4,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Sistema Único de Saúde,/m/02z3bf6,4,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Chikungunya virus infection,/m/01__7l,4,BR-DF,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Mosquito,/m/09f96,33,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Yellow fever mosquito,/m/06y6_w,30,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Dengue vaccine,/m/0115n7rn,20,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Vaccine,/m/07__7,20,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Bleeding,/m/012n6x,18,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Body,/m/0180q,13,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Acetaminophen,/m/0lbt3,12,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Fever,/m/0cjf0,11,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Chikungunya virus infection,/m/01__7l,9,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Sistema Único de Saúde,/m/02z3bf6,9,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Platelet,/m/01bw6w,9,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Metamizole,/m/08j19g,9,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Itch,/m/04kllm9,8,BR-ES,Dengue,2023-12,2025-07-23 15:37
+COVID-19,/g/11j2cc_qll,8,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Body ache,/g/11k71tc65k,8,BR-ES,Dengue,2023-12,2025-07-23 15:37
+International Classification of Diseases,/m/03zlr,7,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Throat,/m/0mhy4,6,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Larva,/m/0d9_3,6,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Ibuprofen,/m/014d3g,5,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Vomiting,/m/012qjw,3,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Cause,/m/0j276x9,3,BR-ES,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Mosquito,/m/09f96,37,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Yellow fever mosquito,/m/06y6_w,35,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Cure,/m/0405g08,28,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Bleeding,/m/012n6x,25,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Vaccine,/m/07__7,19,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Metamizole,/m/08j19g,14,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Dengue vaccine,/m/0115n7rn,13,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Fever,/m/0cjf0,10,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Acetaminophen,/m/0lbt3,9,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Platelet,/m/01bw6w,8,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Cause,/m/0j276x9,7,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Chikungunya virus infection,/m/01__7l,7,BR-GO,Dengue,2023-12,2025-07-23 15:37
+COVID-19,/g/11j2cc_qll,7,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Virus,/m/0g9pc,6,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Diarrhea,/m/0f3kl,5,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Itch,/m/04kllm9,5,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Headache,/m/0j5fv,5,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Throat,/m/0mhy4,5,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Sistema Único de Saúde,/m/02z3bf6,5,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Vomiting,/m/012qjw,5,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Immunoglobulin G,/m/02gsf4,4,BR-GO,Dengue,2023-12,2025-07-23 15:37
+Symptom,/m/01b_06,100,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,59,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,45,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,43,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,38,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,27,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,26,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Health,/m/0kt51,21,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,19,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,18,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Body,/m/0180q,17,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,16,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,16,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Pharmaceutical drug,/m/018l35,15,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Luiz Inácio Lula da Silva,/m/0pc9q,10,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,9,BR-MA,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,7,BR-MA,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,33,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,29,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,26,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,21,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,20,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,16,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Itch,/m/04kllm9,15,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,13,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Body,/m/0180q,12,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,11,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Acetaminophen,/m/0lbt3,9,BR-MG,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,8,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Platelet,/m/01bw6w,8,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Diarrhea,/m/0f3kl,7,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,7,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,6,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Headache,/m/0j5fv,5,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,5,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,5,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,4,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,4,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,4,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Vomiting,/m/012qjw,4,BR-MG,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,33,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,31,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,29,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,25,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Pain,/m/062t2,22,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,20,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,18,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Platelet,/m/01bw6w,16,BR-MS,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,15,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,15,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,13,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Ibuprofen,/m/014d3g,12,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Headache,/m/0j5fv,8,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Influenza,/m/0cycc,7,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Patient,/m/028hfb,7,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Cause,/m/0j276x9,7,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,6,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Vomiting,/m/012qjw,6,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Immunoglobulin G,/m/02gsf4,5,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Human skin,/g/11bc5j5yln,4,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,4,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,3,BR-MS,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,36,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,28,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Pain,/m/062t2,26,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,16,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Immunoglobulin M,/m/02gshc,16,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Acetaminophen,/m/0lbt3,11,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,11,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Reagent,/m/0197z2,11,BR-MT,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,11,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Immunoglobulin G,/m/02gsf4,10,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Ibuprofen,/m/014d3g,10,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Cause,/m/0j276x9,8,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Blood,/m/019jw,7,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,6,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,5,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Diarrhea,/m/0f3kl,5,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,5,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,5,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,4,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,4,BR-MT,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,39,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,34,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,31,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,22,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Malaria,/m/0542n,18,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Unit of measurement,/m/02sql7,18,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,15,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Health,/m/0kt51,15,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,13,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,13,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Throat,/m/0mhy4,11,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,10,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,9,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,9,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,8,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Data,/m/026sq,8,BR-PA,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,8,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,7,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Study,/g/11c6zwrcd1,7,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Pharmaceutical drug,/m/018l35,6,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Economics,/m/02j62,6,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Luiz Inácio Lula da Silva,/m/0pc9q,6,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,5,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Technology,/m/07c1v,5,BR-PA,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,86,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,77,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,59,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,57,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,37,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,28,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,23,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,21,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Body,/m/0180q,20,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,18,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Head,/m/04hgtk,18,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,15,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Luiz Inácio Lula da Silva,/m/0pc9q,14,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Influenza,/m/0cycc,12,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,11,BR-PB,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,11,BR-PB,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,38,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,35,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,32,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,29,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,20,BR-PE,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,19,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,19,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,18,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,18,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Infection,/m/098s1,14,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,13,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,13,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Body,/m/0180q,12,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,11,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,10,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Headache,/m/0j5fv,10,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Ministry,/m/03h_j_,10,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Information,/m/03y39,9,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Data,/m/026sq,9,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Ministry of Health of Brazil,/m/0c3ty1w,8,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Head,/m/04hgtk,8,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Research,/m/06cs1,7,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,7,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Government,/m/036nz,7,BR-PE,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,77,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,54,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,50,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,45,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Insect repellent,/m/05jbfr,44,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,44,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,42,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,38,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Artificial intelligence,/m/0mkz,37,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,34,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Vomiting,/m/012qjw,31,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Text,/m/07s6nbt,29,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,27,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Diagnosis,/g/155pjm37,26,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Pain,/m/062t2,26,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Digital,/m/029kh,26,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Cause,/m/0j276x9,23,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Alan Turing,/m/0n00,23,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,22,BR-PI,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,21,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,19,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Infection,/m/098s1,19,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Ship,/m/06q74,18,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Artificial,/g/11c0q_9fcc,17,BR-PI,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,46,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,41,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,24,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,22,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,14,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,12,BR-PR,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,11,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Body,/m/0180q,9,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Platelet,/m/01bw6w,9,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Itch,/m/04kllm9,8,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,8,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,7,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Diarrhea,/m/0f3kl,7,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,7,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,6,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,5,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Acetaminophen,/m/0lbt3,5,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Red blotches,/g/11cnnds5rt,5,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Headache,/m/0j5fv,4,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Larva,/m/0d9_3,4,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,4,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Influenza,/m/0cycc,4,BR-PR,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,26,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,22,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,15,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,14,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,14,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,12,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Platelet,/m/01bw6w,11,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,7,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,6,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Itch,/m/04kllm9,6,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,6,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Diarrhea,/m/0f3kl,6,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,5,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,5,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Cause,/m/0j276x9,4,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Headache,/m/0j5fv,4,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,4,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Acetaminophen,/m/0lbt3,4,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,4,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,3,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,3,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Red blotches,/g/11cnnds5rt,3,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,3,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Viral Infection,/m/02kc20m,3,BR-RJ,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,50,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,38,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,32,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Pain,/m/062t2,22,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,20,BR-RN,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,18,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Body,/m/0180q,16,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,15,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,14,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,13,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Human skin,/g/11bc5j5yln,13,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,11,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,11,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Influenza,/m/0cycc,10,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,10,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,10,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,9,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Infection,/m/098s1,7,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,7,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Bacteria,/m/017q2,6,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,6,BR-RN,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,29,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,26,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Research,/m/06cs1,21,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,20,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,20,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Tea,/m/07clx,15,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Retirement,/m/06lry,15,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,14,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Report,/m/0chln1,12,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,11,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Influenza,/m/0cycc,11,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Human,/m/0dgw9r,10,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Pharmaceutical drug,/m/018l35,9,BR-RO,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,9,BR-RO,Dengue,2023-12,2025-07-23 15:38
+,,,BR-RR,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,47,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,42,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,28,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,25,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,11,BR-RS,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,10,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,9,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Luiz Inácio Lula da Silva,/m/0pc9q,5,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,5,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,5,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,5,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,5,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Report,/m/0chln1,4,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Tuberculosis,/m/07jwr,4,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Blood,/m/019jw,4,BR-RS,Dengue,2023-12,2025-07-23 15:38
+United Nations,/m/07t65,4,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Diarrhea,/m/0f3kl,4,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,3,BR-RS,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,37,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,35,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,34,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,30,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,9,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,9,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,7,BR-SC,Dengue,2023-12,2025-07-23 15:38
+being,/g/121m7xnm,6,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Natural environment,/m/02py09,6,BR-SC,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,6,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,5,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,5,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Headache,/m/0j5fv,5,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Acetaminophen,/m/0lbt3,5,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Study,/g/11c6zwrcd1,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+1950,/g/11b77d3ky1,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+offense report,/g/120htl3q,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Report,/m/0chln1,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Titanic,/m/06l72,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Vomiting,/m/012qjw,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Simon Kuznets,/m/01pf9_,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Diagnosis,/g/155pjm37,4,BR-SC,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-SE,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,82,BR-SE,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,52,BR-SE,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,34,BR-SE,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,22,BR-SE,Dengue,2023-12,2025-07-23 15:38
+Body,/m/0180q,21,BR-SE,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,12,BR-SE,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,11,BR-SE,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,39,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,37,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,35,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,32,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,11,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,11,BR-SP,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,10,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Body,/m/0180q,9,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,7,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,7,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,7,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Diarrhea,/m/0f3kl,6,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Headache,/m/0j5fv,6,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,6,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Cause,/m/0j276x9,5,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Larva,/m/0d9_3,5,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Platelet,/m/01bw6w,5,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Itch,/m/04kllm9,5,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,5,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,5,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,4,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Luiz Inácio Lula da Silva,/m/0pc9q,4,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Acetaminophen,/m/0lbt3,4,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,4,BR-SP,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-TO,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,57,BR-TO,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,48,BR-TO,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,23,BR-TO,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,19,BR-TO,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,16,BR-TO,Dengue,2023-12,2025-07-23 15:38
+Disease,/m/027x3,14,BR-TO,Dengue,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR,Dengue,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,29,BR,Dengue,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,26,BR,Dengue,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,25,BR,Dengue,2023-12,2025-07-23 15:38
+Dengue vaccine,/m/0115n7rn,21,BR,Dengue,2023-12,2025-07-23 15:38
+Bleeding,/m/012n6x,13,BR,Dengue,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,11,BR,Dengue,2023-12,2025-07-23 15:38
+Chikungunya virus infection,/m/01__7l,8,BR,Dengue,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,8,BR,Dengue,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,8,BR,Dengue,2023-12,2025-07-23 15:38
+Itch,/m/04kllm9,7,BR,Dengue,2023-12,2025-07-23 15:38
+Platelet,/m/01bw6w,6,BR,Dengue,2023-12,2025-07-23 15:38
+Diarrhea,/m/0f3kl,6,BR,Dengue,2023-12,2025-07-23 15:38
+Acetaminophen,/m/0lbt3,6,BR,Dengue,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,5,BR,Dengue,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,5,BR,Dengue,2023-12,2025-07-23 15:38
+Headache,/m/0j5fv,5,BR,Dengue,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,5,BR,Dengue,2023-12,2025-07-23 15:38
+Transmission,/m/036991,4,BR,Dengue,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,4,BR,Dengue,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,4,BR,Dengue,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,3,BR,Dengue,2023-12,2025-07-23 15:38
+Influenza,/m/0cycc,3,BR,Dengue,2023-12,2025-07-23 15:38
+,,,BR-AC,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,100,BR-AL,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,85,BR-AL,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,67,BR-AL,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,100,BR-AM,Chikungunya,2023-12,2025-07-23 15:38
+Transmission,/m/036991,63,BR-AM,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,46,BR-AM,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,36,BR-AM,Chikungunya,2023-12,2025-07-23 15:38
+,,,BR-AP,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,81,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,66,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Pain,/m/062t2,38,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,30,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Pharmaceutical drug,/m/018l35,22,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,19,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+International Classification of Diseases,/m/03zlr,16,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Sequela,/m/05smdx,14,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Foot,/m/031n1,12,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,12,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Health,/m/0kt51,10,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Diagnosis,/g/155pjm37,7,BR-BA,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,100,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,76,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,73,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,43,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Health,/m/0kt51,34,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,32,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Transmission,/m/036991,28,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Disease,/m/027x3,19,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,14,BR-CE,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-DF,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,77,BR-DF,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,73,BR-DF,Chikungunya,2023-12,2025-07-23 15:38
+Transmission,/m/036991,16,BR-DF,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-ES,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,84,BR-ES,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,65,BR-ES,Chikungunya,2023-12,2025-07-23 15:38
+Pain,/m/062t2,59,BR-ES,Chikungunya,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,49,BR-ES,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,100,BR-GO,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,94,BR-GO,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,50,BR-GO,Chikungunya,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,32,BR-GO,Chikungunya,2023-12,2025-07-23 15:38
+International Classification of Diseases,/m/03zlr,25,BR-GO,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,23,BR-GO,Chikungunya,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,18,BR-GO,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-MA,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,83,BR-MA,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,76,BR-MA,Chikungunya,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,43,BR-MA,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,69,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Pain,/m/062t2,31,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,24,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,17,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Body,/m/0180q,11,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,10,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Sequela,/m/05smdx,9,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,9,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Cause,/m/0j276x9,8,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Transmission,/m/036991,7,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Pharmaceutical drug,/m/018l35,7,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Itch,/m/04kllm9,6,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Joint,/m/01dvt1,6,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,5,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,5,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,5,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Inflammation,/m/0j7_w,4,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Serology,/m/042s2_,4,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,3,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,3,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Throat,/m/0mhy4,3,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+Prednisone,/m/02m3m3,3,BR-MG,Chikungunya,2023-12,2025-07-23 15:38
+,,,BR-MS,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-MT,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,57,BR-MT,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,29,BR-MT,Chikungunya,2023-12,2025-07-23 15:38
+,,,BR-PA,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,100,BR-PB,Chikungunya,2023-12,2025-07-23 15:38
+Pain,/m/062t2,73,BR-PB,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,38,BR-PB,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,30,BR-PB,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-PE,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,71,BR-PE,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,56,BR-PE,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-PI,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,79,BR-PI,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,26,BR-PI,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,100,BR-PR,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,50,BR-PR,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,49,BR-PR,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,27,BR-PR,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,73,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,46,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,29,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Pain,/m/062t2,19,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Red blotches,/g/11cnnds5rt,17,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,16,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,14,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,11,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Body,/m/0180q,11,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Sistema Único de Saúde,/m/02z3bf6,10,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Platelet,/m/01bw6w,9,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Disease vector,/g/1213bm7p,9,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Transmission,/m/036991,9,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Sequela,/m/05smdx,9,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,8,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,8,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Joint,/m/01dvt1,8,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Medical sign,/m/02qbqx,8,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,7,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Itch,/m/04kllm9,5,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,4,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+International Classification of Diseases,/m/03zlr,4,BR-RJ,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-RN,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,67,BR-RN,Chikungunya,2023-12,2025-07-23 15:38
+,,,BR-RO,Chikungunya,2023-12,2025-07-23 15:38
+,,,BR-RR,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,100,BR-RS,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,98,BR-RS,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,73,BR-RS,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,59,BR-RS,Chikungunya,2023-12,2025-07-23 15:38
+Transmission,/m/036991,39,BR-RS,Chikungunya,2023-12,2025-07-23 15:38
+Disease,/m/027x3,100,BR-SC,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,89,BR-SC,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,82,BR-SC,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,75,BR-SC,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,65,BR-SC,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,100,BR-SE,Chikungunya,2023-12,2025-07-23 15:38
+Pain,/m/062t2,66,BR-SE,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,51,BR-SE,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,95,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,50,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,46,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Disease,/m/027x3,26,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,26,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,22,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,22,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,14,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Transmission,/m/036991,13,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,11,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Cause,/m/0j276x9,10,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,10,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Disease outbreak,/m/01qb76,10,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Laboratory,/m/017clw,8,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Sequela,/m/05smdx,8,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Diagnosis,/g/155pjm37,7,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Infection,/m/098s1,6,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Yellow fever,/m/087z2,5,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Bacteria,/m/017q2,4,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Serology,/m/042s2_,4,BR-SP,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR-TO,Chikungunya,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,100,BR,Chikungunya,2023-12,2025-07-23 15:38
+Dengue fever,/m/09wsg,80,BR,Chikungunya,2023-12,2025-07-23 15:38
+Zika fever,/m/02vkznh,43,BR,Chikungunya,2023-12,2025-07-23 15:38
+Pain,/m/062t2,29,BR,Chikungunya,2023-12,2025-07-23 15:38
+Zika virus,/m/080m_5j,27,BR,Chikungunya,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,18,BR,Chikungunya,2023-12,2025-07-23 15:38
+Disease,/m/027x3,14,BR,Chikungunya,2023-12,2025-07-23 15:38
+Mosquito,/m/09f96,13,BR,Chikungunya,2023-12,2025-07-23 15:38
+Transmission,/m/036991,11,BR,Chikungunya,2023-12,2025-07-23 15:38
+Sequela,/m/05smdx,9,BR,Chikungunya,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,8,BR,Chikungunya,2023-12,2025-07-23 15:38
+Yellow fever mosquito,/m/06y6_w,8,BR,Chikungunya,2023-12,2025-07-23 15:38
+Cause,/m/0j276x9,8,BR,Chikungunya,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,6,BR,Chikungunya,2023-12,2025-07-23 15:38
+Pharmaceutical drug,/m/018l35,6,BR,Chikungunya,2023-12,2025-07-23 15:38
+Joint,/m/01dvt1,6,BR,Chikungunya,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,6,BR,Chikungunya,2023-12,2025-07-23 15:38
+Itch,/m/04kllm9,5,BR,Chikungunya,2023-12,2025-07-23 15:38
+Infection,/m/098s1,4,BR,Chikungunya,2023-12,2025-07-23 15:38
+Metamizole,/m/08j19g,4,BR,Chikungunya,2023-12,2025-07-23 15:38
+Aedes,/m/01yz26,4,BR,Chikungunya,2023-12,2025-07-23 15:38
+Body ache,/g/11k71tc65k,4,BR,Chikungunya,2023-12,2025-07-23 15:38
+Diagnosis,/g/155pjm37,4,BR,Chikungunya,2023-12,2025-07-23 15:38
+Arbovirus,/m/02cbnk,4,BR,Chikungunya,2023-12,2025-07-23 15:38
+Swelling,/m/09bdp3,4,BR,Chikungunya,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,100,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+Flu Medicine,/g/11fl7dxd7z,66,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+Tea,/m/07clx,43,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+Syndrome,/m/01pgj4,39,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+Cough,/m/01b_21,32,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,31,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,25,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+Influenza-like illness,/m/05_5py4,25,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,20,BR-AC,Influenza/gripe,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,100,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Flu Medicine,/g/11fl7dxd7z,58,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Tea,/m/07clx,50,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,43,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Cough,/m/01b_21,34,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Nose,/m/0k0pj,28,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Throat,/m/0mhy4,21,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Amoxicillin,/m/011z0,20,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,20,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Disease,/m/027x3,20,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Inflammation,/m/0j7_w,20,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Ear,/m/039xj_,18,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,17,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Avian influenza,/m/0292d3,16,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,14,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Sore throat,/m/0b76bty,14,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+International Classification of Diseases,/m/03zlr,13,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Syrup,/g/1222216d,11,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Vitamin C,/m/07zqy,10,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Transmission,/m/036991,10,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Sinusitis,/m/072hv,9,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Rhinitis,/m/02mdz9,9,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Head,/m/04hgtk,8,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Influenza-like illness,/m/05_5py4,8,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Sputum,/m/01jmfg,8,BR-AL,Influenza/gripe,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,100,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Flu Medicine,/g/11fl7dxd7z,74,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,58,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Influenza vaccine,/m/0416v7,32,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Cough,/m/01b_21,30,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Symptom,/m/01b_06,23,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Infant,/m/0jnvp,23,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Fever,/m/0cjf0,22,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Home remedy,/m/044zht,16,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Tea,/m/07clx,13,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+International Classification of Diseases,/m/03zlr,13,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Lemon,/g/1yxkhgd6l,12,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Syrup,/g/1222216d,10,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Spanish flu,/m/01c751,10,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Sputum,/m/01jmfg,9,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Inflammation,/m/0j7_w,9,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Viral Infection,/m/02kc20m,8,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+COVID-19,/g/11j2cc_qll,7,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Throat,/m/0mhy4,7,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Nose,/m/0k0pj,7,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Virus,/m/0g9pc,6,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Common cold,/m/0n073,6,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Nimesulide,/m/055411,5,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Dose,/m/02qdgt_,5,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Injection,/m/03131m,5,BR-AM,Influenza/gripe,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,100,BR-AP,Influenza/gripe,2023-12,2025-07-23 15:38
+Pain,/m/062t2,80,BR-AP,Influenza/gripe,2023-12,2025-07-23 15:38
+Flu Medicine,/g/11fl7dxd7z,79,BR-AP,Influenza/gripe,2023-12,2025-07-23 15:38
+Vaccine,/m/07__7,76,BR-AP,Influenza/gripe,2023-12,2025-07-23 15:38
+Tea,/m/07clx,50,BR-AP,Influenza/gripe,2023-12,2025-07-23 15:38
+Cough,/m/01b_21,44,BR-AP,Influenza/gripe,2023-12,2025-07-23 15:38
+Influenza vaccine,/m/0416v7,43,BR-AP,Influenza/gripe,2023-12,2025-07-23 15:38
+Sore throat,/m/0b76bty,35,BR-AP,Influenza/gripe,2023-12,2025-07-23 15:38
+Cure,/m/0405g08,100,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,54,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,49,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,40,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,31,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,25,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,23,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,17,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,16,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,16,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,15,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,15,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,14,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,14,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,13,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,13,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,13,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,13,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,13,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,11,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,8,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Pharmaceutical drug,/m/018l35,7,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,7,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Garlic,/m/0dbrl,7,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Body ache,/g/11k71tc65k,7,BR-BA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,55,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,38,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,35,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,34,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,29,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,27,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,19,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,19,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,19,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,15,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,13,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,13,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,12,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,12,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,12,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,11,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,11,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,11,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,11,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,11,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Syndrome,/m/01pgj4,11,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,11,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,10,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,10,BR-CE,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,66,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,46,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,31,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,28,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,28,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,27,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Pregnancy,/m/05vqh7,23,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,23,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,22,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,21,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,17,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,16,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,15,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,14,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,13,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,13,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,13,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,13,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Ibuprofen,/m/014d3g,12,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,11,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,11,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Essential oil,/m/01ppsd,9,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,9,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,8,BR-DF,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,44,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,42,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,37,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Infant,/m/0jnvp,35,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,33,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,31,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,28,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,27,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,25,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,20,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,19,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,19,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,17,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,16,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Disease,/m/027x3,15,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,15,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Prednisolone,/m/02yzx9,13,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,12,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,10,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,9,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Swine influenza,/m/057c6k,6,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,6,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,6,BR-ES,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,57,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,34,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,30,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Infant,/m/0jnvp,29,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,26,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,26,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,23,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Pregnancy,/m/05vqh7,23,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,22,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,18,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,16,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,15,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,15,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,12,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,9,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,9,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,9,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,8,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,8,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Ice cream,/m/0cxn2,7,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Acetaminophen,/m/0lbt3,7,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,7,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,7,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Honey,/m/03qmh,6,BR-GO,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,48,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,32,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,25,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,23,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,19,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,17,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,15,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,13,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,12,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,12,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,12,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,11,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,11,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,11,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,10,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,9,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,9,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,8,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Dexamethasone,/m/01x1z5,8,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,8,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Headache,/m/0j5fv,7,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,7,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,7,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Amoxicillin,/m/011z0,7,BR-MA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,52,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,49,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,47,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,28,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,28,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,27,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,21,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,21,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,20,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,18,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,15,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,14,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,14,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,13,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,13,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,12,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,11,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Sinusitis,/m/072hv,11,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,11,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Avian influenza,/m/0292d3,10,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Disease,/m/027x3,10,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Honey,/m/03qmh,10,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Coryza,/m/0c532h,8,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,8,BR-MG,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,49,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,48,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,38,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,36,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,32,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,31,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,22,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Swine influenza,/m/057c6k,21,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,18,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,17,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,17,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Coryza,/m/0c532h,16,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,16,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,15,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,13,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,13,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Injection,/m/03131m,12,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,11,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Disease,/m/027x3,9,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,8,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Headache,/m/0j5fv,8,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,8,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Pig,/m/078qb0,7,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,6,BR-MS,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,65,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,61,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Infant,/m/0jnvp,56,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,32,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,24,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Pneumonia,/m/0dq9p,18,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Disease,/m/027x3,17,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,17,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,17,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,16,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,14,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,14,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,13,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,12,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,12,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,12,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Leaf,/m/09t49,11,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Metamizole,/m/08j19g,11,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Nimesulide,/m/055411,9,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Lung,/m/096bg,9,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,9,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,9,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,8,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Swine influenza,/m/057c6k,8,BR-MT,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,55,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,47,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,30,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,27,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Pregnancy,/m/05vqh7,24,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,22,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,19,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,18,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,17,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,16,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,16,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,13,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,12,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,12,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,11,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Vitamin,/m/07zry,10,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,10,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,10,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,9,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,8,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Immunity,/m/025sjz4,8,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,8,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,8,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Viral Infection,/m/02kc20m,7,BR-PA,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,47,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,42,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,36,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,27,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,24,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,20,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,19,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,18,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,16,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,16,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,15,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,14,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Viral Infection,/m/02kc20m,13,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,12,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,12,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,12,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Breastfeeding,/m/0hb2r,10,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza-like illness,/m/05_5py4,10,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Acetaminophen,/m/0lbt3,9,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Pharmaceutical drug,/m/018l35,9,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,9,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Syndrome,/m/01pgj4,9,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,9,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Garlic,/m/0dbrl,8,BR-PB,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,55,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,34,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,28,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,24,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,23,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,21,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,20,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,17,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,14,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,13,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,12,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,12,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Tablet,/m/0kdn9,11,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,11,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,10,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,10,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Vitamin,/m/07zry,10,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,10,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,10,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,9,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,9,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Breastfeeding,/m/0hb2r,8,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,8,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Ibuprofen,/m/014d3g,7,BR-PE,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,51,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,50,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,40,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,28,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,21,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,18,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,18,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,18,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,18,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,15,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,14,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Dexamethasone,/m/01x1z5,14,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,13,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,13,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,12,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Ice cream,/m/0cxn2,12,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,11,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,10,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,9,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,9,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,8,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Garlic,/m/0dbrl,7,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,7,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Juice,/m/01z1kdw,6,BR-PI,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,61,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,51,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,46,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,41,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,34,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,30,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Pregnancy,/m/05vqh7,29,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,27,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,24,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,24,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,22,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,22,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,21,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,17,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,16,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Head,/m/04hgtk,13,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,13,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,13,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,13,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Acetaminophen,/m/0lbt3,13,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Breastfeeding,/m/0hb2r,13,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,12,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Spearmint,/m/06p43,11,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Ibuprofen,/m/014d3g,10,BR-PR,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,56,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,44,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,41,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,39,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,29,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,22,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,21,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,20,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Pregnancy,/m/05vqh7,19,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,18,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,15,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,14,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,12,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,10,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,10,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,10,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,9,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Swine influenza,/m/057c6k,9,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,9,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,8,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,8,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,7,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenzavirus A,/m/028tns,7,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Ibuprofen,/m/014d3g,7,BR-RJ,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,42,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,42,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,32,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,29,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,29,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,21,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,21,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,20,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Acetaminophen,/m/0lbt3,17,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,16,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,15,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Headache,/m/0j5fv,14,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Head,/m/04hgtk,14,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,14,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,13,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,12,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Disease,/m/027x3,12,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+whole,/g/11spgympyl,12,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,12,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Tablet,/m/0kdn9,12,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,11,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,11,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Coryza,/m/0c532h,10,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,10,BR-RN,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,78,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,61,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,59,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,48,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,44,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,36,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Pregnancy,/m/05vqh7,35,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Child,/m/0ytgt,31,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,21,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Disease,/m/027x3,19,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,19,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,19,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,18,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,17,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,16,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,14,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,12,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,11,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,10,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Viral Infection,/m/02kc20m,8,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,7,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,7,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Honey,/m/03qmh,6,BR-RO,Influenza/gripe,2023-12,2025-07-23 15:39
+Infant,/m/0jnvp,100,BR-RR,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,88,BR-RR,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,65,BR-RR,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,61,BR-RR,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,44,BR-RR,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,43,BR-RR,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,74,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,54,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,51,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Avian influenza,/m/0292d3,41,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,37,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,35,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,35,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,26,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,24,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,24,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,22,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,19,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenzavirus A,/m/028tns,19,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,17,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Acetaminophen,/m/0lbt3,17,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,17,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,16,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,16,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Birds,/m/015p6,15,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Swine influenza,/m/057c6k,14,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Infection,/m/098s1,14,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,13,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,12,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Pneumonia,/m/0dq9p,12,BR-RS,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,70,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,66,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,47,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,46,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Infant,/m/0jnvp,44,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,32,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,29,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Pregnancy,/m/05vqh7,29,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,28,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,24,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,23,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,21,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,20,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,20,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,19,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,15,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,14,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Swine influenza,/m/057c6k,13,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,13,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,12,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Breastfeeding,/m/0hb2r,11,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Disease,/m/027x3,11,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenzavirus A,/m/028tns,10,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Ibuprofen,/m/014d3g,9,BR-SC,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,44,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,44,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,30,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,26,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,21,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,21,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,16,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,15,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,13,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Prednisolone,/m/02yzx9,12,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear pain,/m/05vywy,11,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,11,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Coryza,/m/0c532h,10,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,10,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,9,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,9,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,8,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,8,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,8,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Syndrome,/m/01pgj4,6,BR-SE,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,54,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,49,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,35,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,32,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,26,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,26,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,25,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,25,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,18,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,18,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,16,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,14,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,13,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,13,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,12,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,12,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,11,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,10,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Spanish flu,/m/01c751,9,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,9,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Avian influenza,/m/0292d3,9,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,8,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Acetaminophen,/m/0lbt3,8,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Headache,/m/0j5fv,8,BR-SP,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,43,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,30,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,27,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,23,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Pain,/m/062t2,21,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,18,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,14,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,13,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,13,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,13,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Metamizole,/m/08j19g,12,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Infection,/m/098s1,11,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,10,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,9,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,8,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Disease,/m/027x3,8,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,6,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,5,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Evil,/m/02plx,4,BR-TO,Influenza/gripe,2023-12,2025-07-23 15:39
+Cure,/m/0405g08,100,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Flu Medicine,/g/11fl7dxd7z,52,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,39,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Tea,/m/07clx,36,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,30,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,27,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Common cold,/m/0n073,22,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,20,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Influenza vaccine,/m/0416v7,19,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,19,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,18,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,15,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,14,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,14,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,13,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,12,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,11,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Ear,/m/039xj_,11,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Allergy,/m/0fd23,11,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Lemon,/g/1yxkhgd6l,9,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Inflammation,/m/0j7_w,9,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Home remedy,/m/044zht,9,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Acetaminophen,/m/0lbt3,8,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Avian influenza,/m/0292d3,8,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+Headache,/m/0j5fv,7,BR,Influenza/gripe,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,12,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,10,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,10,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,8,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,5,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,4,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+Tea,/m/07clx,4,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,4,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,3,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,2,BR-AC,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,14,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,12,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,11,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,9,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,4,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,3,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Myocardial infarction,/m/0gk4g,3,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,2,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,2,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Infarction,/m/02vnfx,2,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,2,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,2,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Drogasil,/m/0g55x60,2,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,2,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,1,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,1,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Azithromycin,/m/032n3z,1,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Nose,/m/0k0pj,1,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,1,BR-AL,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,29,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,26,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,9,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,5,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,5,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,4,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,3,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Disease,/m/027x3,3,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Patient,/m/028hfb,3,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Jair Bolsonaro,/m/04g5q20,2,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,2,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+China,/m/0d05w3,2,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/m/0gvbw,1,BR-AM,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-AP,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,14,BR-AP,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,12,BR-AP,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,7,BR-AP,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,23,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,19,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,14,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,9,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,3,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,3,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Rapid antigen test,/g/11c4pfr82m,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Myocardial infarction,/m/0gk4g,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,2,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,1,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,1,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Sistema Único de Saúde,/m/02z3bf6,1,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Infarction,/m/02vnfx,1,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,1,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Headache,/m/0j5fv,1,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+Variant,/g/11n0dsv3z_,1,BR-BA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,19,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,15,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,12,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,11,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,3,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Pague Menos,/m/0g598jr,2,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,2,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,2,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,2,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,2,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Rapid antigen test,/g/11c4pfr82m,2,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Variant,/g/11n0dsv3z_,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Sistema Único de Saúde,/m/02z3bf6,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Polymerase chain reaction,/m/05w_j,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+Community health center,/g/11bc5lf7y4,1,BR-CE,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,27,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,22,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,9,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,7,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,4,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,3,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,3,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,2,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,2,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Variant,/g/11n0dsv3z_,2,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Sistema Único de Saúde,/m/02z3bf6,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/g/11bycyn5v5,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Disease,/m/027x3,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/m/0gvbw,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+Pharmaceutical drug,/m/018l35,1,BR-DF,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,27,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,19,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,10,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,7,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,4,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Myocardial infarction,/m/0gk4g,4,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,3,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Brazilian Health Regulatory Agency,/m/03cl0pb,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Rapid antigen test,/g/11c4pfr82m,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Infection,/m/098s1,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Polymerase chain reaction,/m/05w_j,2,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,1,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/g/11bycyn5v5,1,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,1,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Infarction,/m/02vnfx,1,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Sistema Único de Saúde,/m/02z3bf6,1,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/m/0gvbw,1,BR-ES,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,20,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,17,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,12,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,9,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,4,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,3,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,3,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,3,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,2,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,2,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,2,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Coronavirus,/m/01cpyy,1,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Azithromycin,/m/032n3z,1,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Sequela,/m/05smdx,1,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/m/0gvbw,1,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Rapid antigen test,/g/11c4pfr82m,1,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-GO,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,14,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,13,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,12,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,9,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,3,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,2,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,2,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,2,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,2,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,2,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,1,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Variant,/g/11n0dsv3z_,1,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Incubation period,/m/0jf0l,1,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,1,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+Infarction,/m/02vnfx,1,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+ICD-10,/m/025rwrz,1,BR-MA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,20,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,15,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,10,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,7,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,3,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,3,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,3,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/m/0gvbw,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Rapid antigen test,/g/11c4pfr82m,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Throat,/m/0mhy4,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Coronavirus,/m/01cpyy,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/g/11bycyn5v5,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Sistema Único de Saúde,/m/02z3bf6,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Sequela,/m/05smdx,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+Myocardial infarction,/m/0gk4g,1,BR-MG,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,21,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,20,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,11,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,10,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,3,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,3,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,3,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Health,/m/0kt51,3,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,3,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,2,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,2,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,2,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,2,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,2,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Patient,/m/028hfb,2,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,1,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Itch,/m/04kllm9,1,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Lung,/m/096bg,1,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Ivermectin,/m/047j8m,1,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Syrup,/g/1222216d,1,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Infection,/m/098s1,1,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+Sequela,/m/05smdx,1,BR-MS,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,21,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,16,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,9,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,4,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,3,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,3,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,3,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,2,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,2,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,2,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Brazilian Health Regulatory Agency,/m/03cl0pb,2,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Obligatory,/g/11s7rc32yk,2,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Pfizer,/g/11bycyn5v5,2,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+China,/m/0d05w3,1,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Sequela,/m/05smdx,1,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Myocardial infarction,/m/0gk4g,1,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Government,/m/036nz,1,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+2020,/g/11b77d3kyh,1,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Shortness of breath,/m/01cdt5,1,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Infarction,/m/02vnfx,1,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,1,BR-MT,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,19,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,15,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,8,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,7,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,4,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,4,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,3,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,3,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,2,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,2,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Rapid antigen test,/g/11c4pfr82m,2,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,2,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Taste,/m/0cp_p,2,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Mask,/m/01kr41,1,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Cause,/m/0j276x9,1,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Dengue fever,/m/09wsg,1,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Sistema Único de Saúde,/m/02z3bf6,1,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,1,BR-PA,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,16,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,15,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,12,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,12,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+International Classification of Diseases,/m/03zlr,3,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,3,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,3,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,2,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,2,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Rapid antigen test,/g/11c4pfr82m,2,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Variant,/g/11n0dsv3z_,2,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,1,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,1,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Sistema Único de Saúde,/m/02z3bf6,1,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,1,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Sequela,/m/05smdx,1,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Taste,/m/0cp_p,1,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,1,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+Coronavirus,/m/01cpyy,1,BR-PB,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,17,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,15,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,12,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,9,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,3,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,2,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Fast,/g/11l869b5t2,2,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,2,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Fever,/m/0cjf0,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Rapid antigen test,/g/11c4pfr82m,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Social isolation,/m/0c_k31,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Agenda-setting theory,/m/02drwk,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Variant,/g/11n0dsv3z_,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+Sputum,/m/01jmfg,1,BR-PE,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Vaccine,/m/07__7,17,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 vaccine,/g/11j8_9sv06,13,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+COVID-19 testing,/g/11j8qdq0kc,10,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Symptom,/m/01b_06,9,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Dose,/m/02qdgt_,2,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Pharmacy,/m/01rfps,2,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Influenza,/m/0cycc,2,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Pandemic,/m/061s4,2,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Coronavirus,/m/01cpyy,2,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Cough,/m/01b_21,1,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+2019–20 coronavirus pandemic,/g/11fr15t15h,1,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Lung,/m/096bg,1,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Transmission,/m/036991,1,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Virus,/m/0g9pc,1,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+Sore throat,/m/0b76bty,1,BR-PI,COVID-19,2023-12,2025-07-23 15:39
+COVID-19,/g/11j2cc_qll,100,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,16,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,12,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,9,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,8,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Pharmacy,/m/01rfps,3,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Transmission,/m/036991,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Dose,/m/02qdgt_,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Virus,/m/0g9pc,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Dengue fever,/m/09wsg,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+International Classification of Diseases,/m/03zlr,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Cough,/m/01b_21,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Influenza,/m/0cycc,2,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Social isolation,/m/0c_k31,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Throat,/m/0mhy4,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Sequela,/m/05smdx,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Fever,/m/0cjf0,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Fast,/g/11l869b5t2,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Headache,/m/0j5fv,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Sore throat,/m/0b76bty,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Sistema Único de Saúde,/m/02z3bf6,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+Diarrhea,/m/0f3kl,1,BR-PR,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,26,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,20,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,10,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,7,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Dose,/m/02qdgt_,4,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,3,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Dengue fever,/m/09wsg,2,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Virus,/m/0g9pc,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Cough,/m/01b_21,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Influenza,/m/0cycc,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Pfizer,/g/11bycyn5v5,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Fever,/m/0cjf0,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Sequela,/m/05smdx,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Variant,/g/11n0dsv3z_,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Lung,/m/096bg,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Throat,/m/0mhy4,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Myocardial infarction,/m/0gk4g,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Jair Bolsonaro,/m/04g5q20,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Infarction,/m/02vnfx,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+Transmission,/m/036991,1,BR-RJ,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,14,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,11,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,10,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,9,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Pharmacy,/m/01rfps,3,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Fast,/g/11l869b5t2,3,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Transmission,/m/036991,3,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Throat,/m/0mhy4,2,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+International Classification of Diseases,/m/03zlr,2,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Social isolation,/m/0c_k31,2,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Influenza,/m/0cycc,2,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,2,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Sore throat,/m/0b76bty,2,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Virus,/m/0g9pc,2,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Dose,/m/02qdgt_,2,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Rapid antigen test,/g/11c4pfr82m,1,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Infection,/m/098s1,1,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Headache,/m/0j5fv,1,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Fever,/m/0cjf0,1,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Dengue fever,/m/09wsg,1,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,1,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+Azithromycin,/m/032n3z,1,BR-RN,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,14,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,10,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,10,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,4,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+Head,/m/04hgtk,3,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+Sequela,/m/05smdx,3,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,3,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+International Classification of Diseases,/m/03zlr,1,BR-RO,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-RR,COVID-19,2023-12,2025-07-23 15:40
+Death,/m/0294j,11,BR-RR,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,9,BR-RR,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,19,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,15,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,10,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,8,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Dose,/m/02qdgt_,4,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,3,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+PanVel,/g/122pws0r,3,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Transmission,/m/036991,2,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Pharmacy,/m/01rfps,2,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Virus,/m/0g9pc,2,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Cough,/m/01b_21,2,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Influenza,/m/0cycc,2,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Social isolation,/m/0c_k31,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Exame Rápido Covid-19 Antígeno Swab Nasal Ecodiagnóstica,/g/11kpfdl9l2,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Fever,/m/0cjf0,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Throat,/m/0mhy4,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Dengue fever,/m/09wsg,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Sore throat,/m/0b76bty,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Infection,/m/098s1,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Diarrhea,/m/0f3kl,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+Rapid antigen test,/g/11c4pfr82m,1,BR-RS,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,20,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,16,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,11,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,9,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Pharmacy,/m/01rfps,3,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,3,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Transmission,/m/036991,3,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+International Classification of Diseases,/m/03zlr,3,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Cough,/m/01b_21,2,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Coronavirus,/m/01cpyy,2,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Rapid antigen test,/g/11c4pfr82m,2,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Fast,/g/11l869b5t2,2,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Fever,/m/0cjf0,2,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Social isolation,/m/0c_k31,2,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Dose,/m/02qdgt_,2,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Diarrhea,/m/0f3kl,1,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Influenza,/m/0cycc,1,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Throat,/m/0mhy4,1,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Cause,/m/0j276x9,1,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Virus,/m/0g9pc,1,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Lung,/m/096bg,1,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Infection,/m/098s1,1,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+Dengue fever,/m/09wsg,1,BR-SC,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,17,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,13,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,9,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,6,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Dose,/m/02qdgt_,5,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+International Classification of Diseases,/m/03zlr,3,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Risk | Brilliant Math & Science Wiki,/m/06d5f,3,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Myocardial infarction,/m/0gk4g,2,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Nose,/m/0k0pj,2,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Fast,/g/11l869b5t2,2,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Influenza,/m/0cycc,2,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Infarction,/m/02vnfx,2,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Transmission,/m/036991,1,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+Social isolation,/m/0c_k31,1,BR-SE,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,26,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,17,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,7,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,7,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Dose,/m/02qdgt_,4,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,3,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Pharmacy,/m/01rfps,2,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Transmission,/m/036991,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Influenza,/m/0cycc,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Dengue fever,/m/09wsg,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Throat,/m/0mhy4,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Cough,/m/01b_21,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Social isolation,/m/0c_k31,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Sistema Único de Saúde,/m/02z3bf6,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Virus,/m/0g9pc,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Fever,/m/0cjf0,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Sequela,/m/05smdx,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Rapid antigen test,/g/11c4pfr82m,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+Variant,/g/11n0dsv3z_,1,BR-SP,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR-TO,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,23,BR-TO,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,18,BR-TO,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,12,BR-TO,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,6,BR-TO,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,4,BR-TO,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,4,BR-TO,COVID-19,2023-12,2025-07-23 15:40
+COVID-19,/g/11j2cc_qll,100,BR,COVID-19,2023-12,2025-07-23 15:40
+Vaccine,/m/07__7,20,BR,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 vaccine,/g/11j8_9sv06,16,BR,COVID-19,2023-12,2025-07-23 15:40
+Symptom,/m/01b_06,10,BR,COVID-19,2023-12,2025-07-23 15:40
+COVID-19 testing,/g/11j8qdq0kc,9,BR,COVID-19,2023-12,2025-07-23 15:40
+Dose,/m/02qdgt_,3,BR,COVID-19,2023-12,2025-07-23 15:40
+Pandemic,/m/061s4,2,BR,COVID-19,2023-12,2025-07-23 15:40
+Pharmacy,/m/01rfps,2,BR,COVID-19,2023-12,2025-07-23 15:40
+2019–20 coronavirus pandemic,/g/11fr15t15h,2,BR,COVID-19,2023-12,2025-07-23 15:40
+Transmission,/m/036991,2,BR,COVID-19,2023-12,2025-07-23 15:40
+Influenza,/m/0cycc,2,BR,COVID-19,2023-12,2025-07-23 15:40
+Dengue fever,/m/09wsg,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Fast,/g/11l869b5t2,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Cough,/m/01b_21,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Throat,/m/0mhy4,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Virus,/m/0g9pc,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Social isolation,/m/0c_k31,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Fever,/m/0cjf0,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Rapid antigen test,/g/11c4pfr82m,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Sistema Único de Saúde,/m/02z3bf6,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Sequela,/m/05smdx,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Variant,/g/11n0dsv3z_,1,BR,COVID-19,2023-12,2025-07-23 15:40
+Coronavirus,/m/01cpyy,1,BR,COVID-19,2023-12,2025-07-23 15:40
